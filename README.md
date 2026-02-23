@@ -1,2 +1,16 @@
-# amazon-clone
-Advanced frontend Amazon-style e-commerce website built using HTML, CSS, and JavaScript with dynamic product rendering, cart management, search functionality, and LocalStorage persistence.  Topics (optional but good):
+# Amazon Clone (Advanced Frontend)
+
+An advanced single-page e-commerce frontend built using HTML, CSS, and JavaScript.
+
+## Features
+- Dynamic product rendering
+- Search functionality
+- Shopping cart with quantity tracking
+- LocalStorage cart persistence
+- Responsive grid layout
+- Real product images
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
